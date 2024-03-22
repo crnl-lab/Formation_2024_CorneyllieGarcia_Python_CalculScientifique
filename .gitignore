@@ -3,6 +3,10 @@ notebooks/*.txt
 notebooks/*.npy
 notebooks/*.xlsx
 notebooks/*.h5
+notebooks/Data_exo_final/*
+notebooks/example.zarr
+notebooks/example.nc
+notebooks/mydata.nc
 
 
 
