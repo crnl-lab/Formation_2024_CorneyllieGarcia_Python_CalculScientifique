@@ -1,4 +1,10 @@
 notebooks/*.svg
+notebooks/*.txt
+notebooks/*.npy
+notebooks/*.xlsx
+notebooks/*.h5
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
