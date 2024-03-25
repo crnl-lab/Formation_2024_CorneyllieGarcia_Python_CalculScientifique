@@ -28,7 +28,9 @@
 
 **Jeudi 28 Mars 2024**
 
-   * **sklearn** Sam 45h
+   * **sklearn** Sam 30min
+   * **skimage** Sam 10min
+   * **plotly** Sam 10min
    * **Formula_statsmodels** Sam 15min
    * **xarray** Sam 40min
    * **Exo final** Sam 1h
