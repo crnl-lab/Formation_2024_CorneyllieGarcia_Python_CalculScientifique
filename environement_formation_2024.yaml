@@ -24,3 +24,4 @@ dependencies:
   - pip:
     - ephyviewer
     - neo
+    - mne
